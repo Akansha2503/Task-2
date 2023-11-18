@@ -11,4 +11,4 @@ Viola! You can preview the to do list.
 
 ## Final Output
 
-![Output](images/output.png)
+![Output](output.png)
